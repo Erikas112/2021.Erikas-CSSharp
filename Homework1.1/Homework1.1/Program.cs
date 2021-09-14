@@ -11,7 +11,7 @@ namespace Homework1._1
             string radiusInString = Console.ReadLine();
             double radius = Convert.ToDouble(radiusInString, CultureInfo.InvariantCulture);
 
-            double c = 2 * Math.PI * radius;// ilgis
+            double c = 2 * Math.PI * radius;
 
             double s = Math.PI * radius * radius;//plotas
 
