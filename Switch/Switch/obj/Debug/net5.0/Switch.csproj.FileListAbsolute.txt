@@ -1,0 +1,15 @@
+C:\Users\Rikas\OneDrive\Stalinis kompiuteris\Paskaita2 CSsharp\Switch\Switch\bin\Debug\net5.0\Switch.exe
+C:\Users\Rikas\OneDrive\Stalinis kompiuteris\Paskaita2 CSsharp\Switch\Switch\bin\Debug\net5.0\Switch.deps.json
+C:\Users\Rikas\OneDrive\Stalinis kompiuteris\Paskaita2 CSsharp\Switch\Switch\bin\Debug\net5.0\Switch.runtimeconfig.json
+C:\Users\Rikas\OneDrive\Stalinis kompiuteris\Paskaita2 CSsharp\Switch\Switch\bin\Debug\net5.0\Switch.runtimeconfig.dev.json
+C:\Users\Rikas\OneDrive\Stalinis kompiuteris\Paskaita2 CSsharp\Switch\Switch\bin\Debug\net5.0\Switch.dll
+C:\Users\Rikas\OneDrive\Stalinis kompiuteris\Paskaita2 CSsharp\Switch\Switch\bin\Debug\net5.0\ref\Switch.dll
+C:\Users\Rikas\OneDrive\Stalinis kompiuteris\Paskaita2 CSsharp\Switch\Switch\bin\Debug\net5.0\Switch.pdb
+C:\Users\Rikas\OneDrive\Stalinis kompiuteris\Paskaita2 CSsharp\Switch\Switch\obj\Debug\net5.0\Switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rikas\OneDrive\Stalinis kompiuteris\Paskaita2 CSsharp\Switch\Switch\obj\Debug\net5.0\Switch.AssemblyInfoInputs.cache
+C:\Users\Rikas\OneDrive\Stalinis kompiuteris\Paskaita2 CSsharp\Switch\Switch\obj\Debug\net5.0\Switch.AssemblyInfo.cs
+C:\Users\Rikas\OneDrive\Stalinis kompiuteris\Paskaita2 CSsharp\Switch\Switch\obj\Debug\net5.0\Switch.csproj.CoreCompileInputs.cache
+C:\Users\Rikas\OneDrive\Stalinis kompiuteris\Paskaita2 CSsharp\Switch\Switch\obj\Debug\net5.0\Switch.dll
+C:\Users\Rikas\OneDrive\Stalinis kompiuteris\Paskaita2 CSsharp\Switch\Switch\obj\Debug\net5.0\ref\Switch.dll
+C:\Users\Rikas\OneDrive\Stalinis kompiuteris\Paskaita2 CSsharp\Switch\Switch\obj\Debug\net5.0\Switch.pdb
+C:\Users\Rikas\OneDrive\Stalinis kompiuteris\Paskaita2 CSsharp\Switch\Switch\obj\Debug\net5.0\Switch.genruntimeconfig.cache

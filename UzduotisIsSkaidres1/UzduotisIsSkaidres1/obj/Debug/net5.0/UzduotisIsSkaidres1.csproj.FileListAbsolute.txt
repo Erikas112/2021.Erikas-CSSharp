@@ -1,0 +1,16 @@
+C:\Users\Rikas\OneDrive\Stalinis kompiuteris\Paskaita2 CSsharp\UzduotisIsSkaidres1\UzduotisIsSkaidres1\bin\Debug\net5.0\UzduotisIsSkaidres1.exe
+C:\Users\Rikas\OneDrive\Stalinis kompiuteris\Paskaita2 CSsharp\UzduotisIsSkaidres1\UzduotisIsSkaidres1\bin\Debug\net5.0\UzduotisIsSkaidres1.deps.json
+C:\Users\Rikas\OneDrive\Stalinis kompiuteris\Paskaita2 CSsharp\UzduotisIsSkaidres1\UzduotisIsSkaidres1\bin\Debug\net5.0\UzduotisIsSkaidres1.runtimeconfig.json
+C:\Users\Rikas\OneDrive\Stalinis kompiuteris\Paskaita2 CSsharp\UzduotisIsSkaidres1\UzduotisIsSkaidres1\bin\Debug\net5.0\UzduotisIsSkaidres1.runtimeconfig.dev.json
+C:\Users\Rikas\OneDrive\Stalinis kompiuteris\Paskaita2 CSsharp\UzduotisIsSkaidres1\UzduotisIsSkaidres1\bin\Debug\net5.0\UzduotisIsSkaidres1.dll
+C:\Users\Rikas\OneDrive\Stalinis kompiuteris\Paskaita2 CSsharp\UzduotisIsSkaidres1\UzduotisIsSkaidres1\bin\Debug\net5.0\ref\UzduotisIsSkaidres1.dll
+C:\Users\Rikas\OneDrive\Stalinis kompiuteris\Paskaita2 CSsharp\UzduotisIsSkaidres1\UzduotisIsSkaidres1\bin\Debug\net5.0\UzduotisIsSkaidres1.pdb
+C:\Users\Rikas\OneDrive\Stalinis kompiuteris\Paskaita2 CSsharp\UzduotisIsSkaidres1\UzduotisIsSkaidres1\obj\Debug\net5.0\UzduotisIsSkaidres1.csproj.AssemblyReference.cache
+C:\Users\Rikas\OneDrive\Stalinis kompiuteris\Paskaita2 CSsharp\UzduotisIsSkaidres1\UzduotisIsSkaidres1\obj\Debug\net5.0\UzduotisIsSkaidres1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rikas\OneDrive\Stalinis kompiuteris\Paskaita2 CSsharp\UzduotisIsSkaidres1\UzduotisIsSkaidres1\obj\Debug\net5.0\UzduotisIsSkaidres1.AssemblyInfoInputs.cache
+C:\Users\Rikas\OneDrive\Stalinis kompiuteris\Paskaita2 CSsharp\UzduotisIsSkaidres1\UzduotisIsSkaidres1\obj\Debug\net5.0\UzduotisIsSkaidres1.AssemblyInfo.cs
+C:\Users\Rikas\OneDrive\Stalinis kompiuteris\Paskaita2 CSsharp\UzduotisIsSkaidres1\UzduotisIsSkaidres1\obj\Debug\net5.0\UzduotisIsSkaidres1.csproj.CoreCompileInputs.cache
+C:\Users\Rikas\OneDrive\Stalinis kompiuteris\Paskaita2 CSsharp\UzduotisIsSkaidres1\UzduotisIsSkaidres1\obj\Debug\net5.0\UzduotisIsSkaidres1.dll
+C:\Users\Rikas\OneDrive\Stalinis kompiuteris\Paskaita2 CSsharp\UzduotisIsSkaidres1\UzduotisIsSkaidres1\obj\Debug\net5.0\ref\UzduotisIsSkaidres1.dll
+C:\Users\Rikas\OneDrive\Stalinis kompiuteris\Paskaita2 CSsharp\UzduotisIsSkaidres1\UzduotisIsSkaidres1\obj\Debug\net5.0\UzduotisIsSkaidres1.pdb
+C:\Users\Rikas\OneDrive\Stalinis kompiuteris\Paskaita2 CSsharp\UzduotisIsSkaidres1\UzduotisIsSkaidres1\obj\Debug\net5.0\UzduotisIsSkaidres1.genruntimeconfig.cache

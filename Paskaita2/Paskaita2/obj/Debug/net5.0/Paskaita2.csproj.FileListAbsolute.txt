@@ -1,0 +1,16 @@
+C:\Users\Rikas\OneDrive\Stalinis kompiuteris\Paskaita2 CSsharp\Paskaita2\Paskaita2\bin\Debug\net5.0\Paskaita2.exe
+C:\Users\Rikas\OneDrive\Stalinis kompiuteris\Paskaita2 CSsharp\Paskaita2\Paskaita2\bin\Debug\net5.0\Paskaita2.deps.json
+C:\Users\Rikas\OneDrive\Stalinis kompiuteris\Paskaita2 CSsharp\Paskaita2\Paskaita2\bin\Debug\net5.0\Paskaita2.runtimeconfig.json
+C:\Users\Rikas\OneDrive\Stalinis kompiuteris\Paskaita2 CSsharp\Paskaita2\Paskaita2\bin\Debug\net5.0\Paskaita2.runtimeconfig.dev.json
+C:\Users\Rikas\OneDrive\Stalinis kompiuteris\Paskaita2 CSsharp\Paskaita2\Paskaita2\bin\Debug\net5.0\Paskaita2.dll
+C:\Users\Rikas\OneDrive\Stalinis kompiuteris\Paskaita2 CSsharp\Paskaita2\Paskaita2\bin\Debug\net5.0\ref\Paskaita2.dll
+C:\Users\Rikas\OneDrive\Stalinis kompiuteris\Paskaita2 CSsharp\Paskaita2\Paskaita2\bin\Debug\net5.0\Paskaita2.pdb
+C:\Users\Rikas\OneDrive\Stalinis kompiuteris\Paskaita2 CSsharp\Paskaita2\Paskaita2\obj\Debug\net5.0\Paskaita2.csproj.AssemblyReference.cache
+C:\Users\Rikas\OneDrive\Stalinis kompiuteris\Paskaita2 CSsharp\Paskaita2\Paskaita2\obj\Debug\net5.0\Paskaita2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rikas\OneDrive\Stalinis kompiuteris\Paskaita2 CSsharp\Paskaita2\Paskaita2\obj\Debug\net5.0\Paskaita2.AssemblyInfoInputs.cache
+C:\Users\Rikas\OneDrive\Stalinis kompiuteris\Paskaita2 CSsharp\Paskaita2\Paskaita2\obj\Debug\net5.0\Paskaita2.AssemblyInfo.cs
+C:\Users\Rikas\OneDrive\Stalinis kompiuteris\Paskaita2 CSsharp\Paskaita2\Paskaita2\obj\Debug\net5.0\Paskaita2.csproj.CoreCompileInputs.cache
+C:\Users\Rikas\OneDrive\Stalinis kompiuteris\Paskaita2 CSsharp\Paskaita2\Paskaita2\obj\Debug\net5.0\Paskaita2.dll
+C:\Users\Rikas\OneDrive\Stalinis kompiuteris\Paskaita2 CSsharp\Paskaita2\Paskaita2\obj\Debug\net5.0\ref\Paskaita2.dll
+C:\Users\Rikas\OneDrive\Stalinis kompiuteris\Paskaita2 CSsharp\Paskaita2\Paskaita2\obj\Debug\net5.0\Paskaita2.pdb
+C:\Users\Rikas\OneDrive\Stalinis kompiuteris\Paskaita2 CSsharp\Paskaita2\Paskaita2\obj\Debug\net5.0\Paskaita2.genruntimeconfig.cache
