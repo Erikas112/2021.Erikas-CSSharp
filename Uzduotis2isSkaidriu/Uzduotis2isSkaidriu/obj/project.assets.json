@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rikas\\OneDrive\\Stalinis kompiuteris\\Paskaita2 CSsharp\\Uzduotis2isSkaidriu\\Uzduotis2isSkaidriu\\Uzduotis2isSkaidriu.csproj",
+      "projectUniqueName": "C:\\Users\\Rikas\\OneDrive\\Stalinis kompiuteris\\CSshurp\\Uzduotis2isSkaidriu\\Uzduotis2isSkaidriu\\Uzduotis2isSkaidriu.csproj",
       "projectName": "Uzduotis2isSkaidriu",
-      "projectPath": "C:\\Users\\Rikas\\OneDrive\\Stalinis kompiuteris\\Paskaita2 CSsharp\\Uzduotis2isSkaidriu\\Uzduotis2isSkaidriu\\Uzduotis2isSkaidriu.csproj",
+      "projectPath": "C:\\Users\\Rikas\\OneDrive\\Stalinis kompiuteris\\CSshurp\\Uzduotis2isSkaidriu\\Uzduotis2isSkaidriu\\Uzduotis2isSkaidriu.csproj",
       "packagesPath": "C:\\Users\\Rikas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rikas\\OneDrive\\Stalinis kompiuteris\\Paskaita2 CSsharp\\Uzduotis2isSkaidriu\\Uzduotis2isSkaidriu\\obj\\",
+      "outputPath": "C:\\Users\\Rikas\\OneDrive\\Stalinis kompiuteris\\CSshurp\\Uzduotis2isSkaidriu\\Uzduotis2isSkaidriu\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Rikas\\AppData\\Roaming\\NuGet\\NuGet.Config",

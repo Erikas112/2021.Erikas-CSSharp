@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rikas\\OneDrive\\Stalinis kompiuteris\\Paskaita2 CSsharp\\Paskaita2\\Paskaita2\\Paskaita2.csproj",
+      "projectUniqueName": "C:\\Users\\Rikas\\OneDrive\\Stalinis kompiuteris\\CSshurp\\Paskaita2\\Paskaita2\\Paskaita2.csproj",
       "projectName": "Paskaita2",
-      "projectPath": "C:\\Users\\Rikas\\OneDrive\\Stalinis kompiuteris\\Paskaita2 CSsharp\\Paskaita2\\Paskaita2\\Paskaita2.csproj",
+      "projectPath": "C:\\Users\\Rikas\\OneDrive\\Stalinis kompiuteris\\CSshurp\\Paskaita2\\Paskaita2\\Paskaita2.csproj",
       "packagesPath": "C:\\Users\\Rikas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rikas\\OneDrive\\Stalinis kompiuteris\\Paskaita2 CSsharp\\Paskaita2\\Paskaita2\\obj\\",
+      "outputPath": "C:\\Users\\Rikas\\OneDrive\\Stalinis kompiuteris\\CSshurp\\Paskaita2\\Paskaita2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Rikas\\AppData\\Roaming\\NuGet\\NuGet.Config",

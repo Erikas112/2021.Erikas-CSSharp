@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rikas\\OneDrive\\Stalinis kompiuteris\\Paskaita2 CSsharp\\UzduotisIsSkaidres1\\UzduotisIsSkaidres1\\UzduotisIsSkaidres1.csproj": {}
+    "C:\\Users\\Rikas\\OneDrive\\Stalinis kompiuteris\\CSshurp\\UzduotisIsSkaidres1\\UzduotisIsSkaidres1\\UzduotisIsSkaidres1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rikas\\OneDrive\\Stalinis kompiuteris\\Paskaita2 CSsharp\\UzduotisIsSkaidres1\\UzduotisIsSkaidres1\\UzduotisIsSkaidres1.csproj": {
+    "C:\\Users\\Rikas\\OneDrive\\Stalinis kompiuteris\\CSshurp\\UzduotisIsSkaidres1\\UzduotisIsSkaidres1\\UzduotisIsSkaidres1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rikas\\OneDrive\\Stalinis kompiuteris\\Paskaita2 CSsharp\\UzduotisIsSkaidres1\\UzduotisIsSkaidres1\\UzduotisIsSkaidres1.csproj",
+        "projectUniqueName": "C:\\Users\\Rikas\\OneDrive\\Stalinis kompiuteris\\CSshurp\\UzduotisIsSkaidres1\\UzduotisIsSkaidres1\\UzduotisIsSkaidres1.csproj",
         "projectName": "UzduotisIsSkaidres1",
-        "projectPath": "C:\\Users\\Rikas\\OneDrive\\Stalinis kompiuteris\\Paskaita2 CSsharp\\UzduotisIsSkaidres1\\UzduotisIsSkaidres1\\UzduotisIsSkaidres1.csproj",
+        "projectPath": "C:\\Users\\Rikas\\OneDrive\\Stalinis kompiuteris\\CSshurp\\UzduotisIsSkaidres1\\UzduotisIsSkaidres1\\UzduotisIsSkaidres1.csproj",
         "packagesPath": "C:\\Users\\Rikas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rikas\\OneDrive\\Stalinis kompiuteris\\Paskaita2 CSsharp\\UzduotisIsSkaidres1\\UzduotisIsSkaidres1\\obj\\",
+        "outputPath": "C:\\Users\\Rikas\\OneDrive\\Stalinis kompiuteris\\CSshurp\\UzduotisIsSkaidres1\\UzduotisIsSkaidres1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rikas\\AppData\\Roaming\\NuGet\\NuGet.Config",
