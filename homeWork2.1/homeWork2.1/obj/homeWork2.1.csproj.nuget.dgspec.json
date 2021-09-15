@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rikas\\OneDrive\\Stalinis kompiuteris\\CSshurp\\Switch\\Switch\\Switch.csproj": {}
+    "C:\\Users\\Rikas\\OneDrive\\Stalinis kompiuteris\\CSshurp\\homeWork2.1\\homeWork2.1\\homeWork2.1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rikas\\OneDrive\\Stalinis kompiuteris\\CSshurp\\Switch\\Switch\\Switch.csproj": {
+    "C:\\Users\\Rikas\\OneDrive\\Stalinis kompiuteris\\CSshurp\\homeWork2.1\\homeWork2.1\\homeWork2.1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rikas\\OneDrive\\Stalinis kompiuteris\\CSshurp\\Switch\\Switch\\Switch.csproj",
-        "projectName": "Switch",
-        "projectPath": "C:\\Users\\Rikas\\OneDrive\\Stalinis kompiuteris\\CSshurp\\Switch\\Switch\\Switch.csproj",
+        "projectUniqueName": "C:\\Users\\Rikas\\OneDrive\\Stalinis kompiuteris\\CSshurp\\homeWork2.1\\homeWork2.1\\homeWork2.1.csproj",
+        "projectName": "homeWork2.1",
+        "projectPath": "C:\\Users\\Rikas\\OneDrive\\Stalinis kompiuteris\\CSshurp\\homeWork2.1\\homeWork2.1\\homeWork2.1.csproj",
         "packagesPath": "C:\\Users\\Rikas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rikas\\OneDrive\\Stalinis kompiuteris\\CSshurp\\Switch\\Switch\\obj\\",
+        "outputPath": "C:\\Users\\Rikas\\OneDrive\\Stalinis kompiuteris\\CSshurp\\homeWork2.1\\homeWork2.1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rikas\\AppData\\Roaming\\NuGet\\NuGet.Config",
