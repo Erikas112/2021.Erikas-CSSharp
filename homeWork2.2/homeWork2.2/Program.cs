@@ -13,9 +13,9 @@ namespace homeWork2._2
             Console.WriteLine("Iveskite trecia skaiciu");
             var skaicius3 = Convert.ToInt32(Console.ReadLine());
 
-            if (skaicius1 == 1)
+            if (skaicius1 == skaicius1)
             {
-
+                
             } 
         }
     }

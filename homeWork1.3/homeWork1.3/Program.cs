@@ -10,9 +10,9 @@ namespace homeWork1._3
             var vardas = Console.ReadLine();
             Console.WriteLine("Parašykite savo pavardę");
             var pavarde = Console.ReadLine();
-            Console.WriteLine("Parašykite savo gimimo vietą");
+            Console.WriteLine("Parašykite kur buvo Jusu gimimo vieta");
             var gimimoVieta = Console.ReadLine();
-            Console.WriteLine(vardas + " " + pavarde + " " + gimimoVieta);
+            Console.WriteLine(vardas + " " + pavarde +  " deginasi" + " " + gimimoVieta);
         }
     }
 }
