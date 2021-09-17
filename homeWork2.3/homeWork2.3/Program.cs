@@ -26,6 +26,7 @@ namespace homeWork2._3
                 default:
                     Console.WriteLine("Neatpazinta spalva");
                     break;
+                    
             }
         }
     }

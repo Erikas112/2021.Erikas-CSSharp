@@ -1,0 +1,16 @@
+C:\Users\Rikas\OneDrive\Stalinis kompiuteris\CSshurp\HomeWork3.2\HomeWork3.2\bin\Debug\net5.0\HomeWork3.2.exe
+C:\Users\Rikas\OneDrive\Stalinis kompiuteris\CSshurp\HomeWork3.2\HomeWork3.2\bin\Debug\net5.0\HomeWork3.2.deps.json
+C:\Users\Rikas\OneDrive\Stalinis kompiuteris\CSshurp\HomeWork3.2\HomeWork3.2\bin\Debug\net5.0\HomeWork3.2.runtimeconfig.json
+C:\Users\Rikas\OneDrive\Stalinis kompiuteris\CSshurp\HomeWork3.2\HomeWork3.2\bin\Debug\net5.0\HomeWork3.2.runtimeconfig.dev.json
+C:\Users\Rikas\OneDrive\Stalinis kompiuteris\CSshurp\HomeWork3.2\HomeWork3.2\bin\Debug\net5.0\HomeWork3.2.dll
+C:\Users\Rikas\OneDrive\Stalinis kompiuteris\CSshurp\HomeWork3.2\HomeWork3.2\bin\Debug\net5.0\ref\HomeWork3.2.dll
+C:\Users\Rikas\OneDrive\Stalinis kompiuteris\CSshurp\HomeWork3.2\HomeWork3.2\bin\Debug\net5.0\HomeWork3.2.pdb
+C:\Users\Rikas\OneDrive\Stalinis kompiuteris\CSshurp\HomeWork3.2\HomeWork3.2\obj\Debug\net5.0\HomeWork3.2.csproj.AssemblyReference.cache
+C:\Users\Rikas\OneDrive\Stalinis kompiuteris\CSshurp\HomeWork3.2\HomeWork3.2\obj\Debug\net5.0\HomeWork3.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rikas\OneDrive\Stalinis kompiuteris\CSshurp\HomeWork3.2\HomeWork3.2\obj\Debug\net5.0\HomeWork3.2.AssemblyInfoInputs.cache
+C:\Users\Rikas\OneDrive\Stalinis kompiuteris\CSshurp\HomeWork3.2\HomeWork3.2\obj\Debug\net5.0\HomeWork3.2.AssemblyInfo.cs
+C:\Users\Rikas\OneDrive\Stalinis kompiuteris\CSshurp\HomeWork3.2\HomeWork3.2\obj\Debug\net5.0\HomeWork3.2.csproj.CoreCompileInputs.cache
+C:\Users\Rikas\OneDrive\Stalinis kompiuteris\CSshurp\HomeWork3.2\HomeWork3.2\obj\Debug\net5.0\HomeWork3.2.dll
+C:\Users\Rikas\OneDrive\Stalinis kompiuteris\CSshurp\HomeWork3.2\HomeWork3.2\obj\Debug\net5.0\ref\HomeWork3.2.dll
+C:\Users\Rikas\OneDrive\Stalinis kompiuteris\CSshurp\HomeWork3.2\HomeWork3.2\obj\Debug\net5.0\HomeWork3.2.pdb
+C:\Users\Rikas\OneDrive\Stalinis kompiuteris\CSshurp\HomeWork3.2\HomeWork3.2\obj\Debug\net5.0\HomeWork3.2.genruntimeconfig.cache
