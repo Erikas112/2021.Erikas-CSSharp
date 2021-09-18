@@ -4,12 +4,18 @@ namespace HomeWork2._4
 {
     class Program
     {
+        // 1. budas
         static void Main(string[] args)
         {
-            string line = "";
-            for (int i = 0; i < 20; i%= 3)
+            //for (int i = 0; i < 20; i++)
+            //{
+            //    if (i % 3 == 0)
+            //        Console.WriteLine(i);  
+            //}
+
+            for (int i = 0; i < 20; i+=3)
             {
-                line += i + ", ";
+                Console.WriteLine(i);
             }
            
         }
