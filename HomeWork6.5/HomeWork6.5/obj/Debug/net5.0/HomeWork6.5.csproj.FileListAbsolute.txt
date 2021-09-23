@@ -1,0 +1,7 @@
+C:\Users\Rikas\OneDrive\Stalinis kompiuteris\CSshurp\HomeWork6.5\HomeWork6.5\obj\Debug\net5.0\HomeWork6.5.csproj.AssemblyReference.cache
+C:\Users\Rikas\OneDrive\Stalinis kompiuteris\CSshurp\HomeWork6.5\HomeWork6.5\obj\Debug\net5.0\HomeWork6.5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rikas\OneDrive\Stalinis kompiuteris\CSshurp\HomeWork6.5\HomeWork6.5\obj\Debug\net5.0\HomeWork6.5.AssemblyInfoInputs.cache
+C:\Users\Rikas\OneDrive\Stalinis kompiuteris\CSshurp\HomeWork6.5\HomeWork6.5\obj\Debug\net5.0\HomeWork6.5.AssemblyInfo.cs
+C:\Users\Rikas\OneDrive\Stalinis kompiuteris\CSshurp\HomeWork6.5\HomeWork6.5\obj\Debug\net5.0\HomeWork6.5.csproj.CoreCompileInputs.cache
+C:\Users\Rikas\OneDrive\Stalinis kompiuteris\CSshurp\HomeWork6.5\HomeWork6.5\obj\Debug\net5.0\HomeWork6.5.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Rikas\OneDrive\Stalinis kompiuteris\CSshurp\HomeWork6.5\HomeWork6.5\obj\Debug\net5.0\HomeWork6.5.MvcApplicationPartsAssemblyInfo.cache

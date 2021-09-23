@@ -14,27 +14,15 @@ namespace HomeWork4._1.Controllers
         [HttpPost]
         public IActionResult WeatherTemperature(int [] celsijaus)
         {
-            int temperature = int.MaxValue;
+            int temperature = 0;
             string message = ("");
             for (int i = 0; i < celsijaus.Length; i++)
             {
-                if (celsijaus[i] < temperature )
+               if (celsijaus[i] > temperature)
                 {
-                    temperature = celsijaus[i];
-                  
+                    temperature = celsijaus.Length;
                 }
-                message += $"Is pateiktu oro temperaturu maziausia temperatura yra {temperature} laipsniai celsijaus,  ";
-
-                int temperature2 = int.MinValue;
-                for (int y = 0; y <celsijaus.Length; y++)
-                if (celsijaus[i] > temperature2)
-                {
-                    temperature2 = celsijaus[i];
-                }
-                message += $"Is pateiktu oro temperaturu didziausia yra {temperature2} laipsniai celsijaus, ";
-
-                var average  =  temperature / celsijaus.Length;
-                message += $"vidutine oro temperatura yra {average} laipsniu celsijaus.";
+                message = $" yra {temperature}";
             }
             return new OkObjectResult(message);
         }

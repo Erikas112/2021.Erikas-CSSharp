@@ -13,14 +13,14 @@ namespace HomeWork3._1.Controllers
     {
         private object numbers;
 
-        [HttpGet]
+        [HttpPost]
         public IActionResult HomeWork()
         {
 
             string result = "Iveskite skaicius nuo [0 - 100]";
             for (int i = 0; i <100 ; i++)
             {
-                if ()
+               
             }
 
 

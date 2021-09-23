@@ -14,20 +14,40 @@ namespace FarmerService.Controllers
         [HttpPost]
         public IActionResult CalculateResults(int[] potatoes)
         {
-
-            int sum = 0;
             string message = "";
-            for (int i = 0; i < potatoes.Length; i++)
-            {
-                sum += potatoes[i];
-            }
+
+            var sum = CalculateSum(potatoes);
             message += $"Is viso bulviu buvo parduota {sum} kg. ";
 
-            // vidurkio skaiciavimas
-            var average = (double)sum / potatoes.Length;
+            var average = CalculateAverage(sum, potatoes.Length);
             message += $"Vieno ukininko parduotu bulviu vidurkis yra {average} kg.";
-            // suskaiciuoti tuos kurie pardave daugiau
+
+            int counter = CalculateFarmersWhoSoldMoreThenFifty(potatoes);
+
+
+            message += $"Ukininku kurie pardave daugiau negu 50 kg yra {counter} ";
+
+                return new OkObjectResult(message);
+        }
+
+        private int CalculateSum(int []collection)
+        {
+            int sum = 0;
+            for (int i = 0; i < collection.Length; i++)
+            {
+                sum += collection[i];
+            }
+            return sum;
+        }
+            private double CalculateAverage(int sum, int count)
+        {
+            return sum / count;
+        }
+
+        private int CalculateFarmersWhoSoldMoreThenFifty(int[] potatoes)
+        {
             int counter = 0;
+            
             for (int i = 0; i < potatoes.Length; i++)
             {
                 if (potatoes[i] > 50)
@@ -35,10 +55,7 @@ namespace FarmerService.Controllers
                     counter++;
                 }
             }
-            message += $"Ukininku kurie pardave daugiau negu 50 kg yra {counter} ";
-
-                return new OkObjectResult(message);
+            return counter;
         }
-            
     }
 }

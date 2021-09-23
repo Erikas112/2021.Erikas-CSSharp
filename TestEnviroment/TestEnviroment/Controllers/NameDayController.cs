@@ -44,7 +44,7 @@ namespace TestEnviroment.Controllers
         //}
 
         [HttpGet]
-        public IActionResult GetNameDay(string name)
+        public IActionResult GetNameDay(string [] name)
         {
             string[] names = {
                 "Rimgaudas",
