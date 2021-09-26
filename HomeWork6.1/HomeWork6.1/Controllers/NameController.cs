@@ -21,12 +21,9 @@ namespace HomeWork6._1.Controllers
                 {
                     maxValue = nameLength;
                     longestName = name;
-                }
-               
+                }             
             }
-
             return new OkObjectResult($"Ilgiausias vardas yra {longestName}, jo ilgis yra {maxValue} simbolių");
         }
-
     }
 }

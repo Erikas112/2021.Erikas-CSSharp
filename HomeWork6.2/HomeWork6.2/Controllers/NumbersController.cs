@@ -18,10 +18,7 @@ namespace HomeWork6._2.Controllers
                 {
                     filteredNumbers.Add(number);
                 }
-
             }
-
-
             return new OkObjectResult (filteredNumbers);
         }
     }

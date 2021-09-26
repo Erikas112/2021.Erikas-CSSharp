@@ -16,11 +16,9 @@ namespace HomeWork6._3.Controllers
             {
                 if (surname.ToLower().StartsWith('a'))
                 {
-
                     filterSurnames.Add(surname);
                 }
             }
-
             return new OkObjectResult(filterSurnames);
         }
     }
