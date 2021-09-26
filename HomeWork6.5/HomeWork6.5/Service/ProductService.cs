@@ -1,50 +1,47 @@
-﻿using System;
+﻿
+using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using HomeWork6._5.Models;
-
-namespace HomeWork6._5.ProductService
+namespace HomeWork6._5.Product
 {
-    public class ProductsService
+    public class ProductService
     {
-        public  List<Product> GetProducts()
+        public  List<Models.Product> GetProducts()
         {
-            var products = new List<Product>();
-            products.Add(new Product(
+            var products = new List<Models.Product>();
+            products.Add(new Models.Product(
                 "Šokoladas",
                 "1342586", 
                 "Skanus šokoladas", 
                 3, 
                 "1Choco.Jpg", 
                 0.50, 
-                new double()
-                )
+                new double(
+                    )
+                  )
                 );
-            products.Add(new Product(
+            products.Add(new Models.Product(
                 "Makaronai",
                 "49202940",
                 "Lietuviški makaronai",
                 1,
                 "2Macaron.Jpg",
                 0.50,
-                new double()
-                )
+                new double(
+                    )
+                  )
                 );
-            products.Add(new Product(
+            products.Add(new Models.Product(
                 "Šampunas",
                 "992013030",
                 "Nivea šampunas",
                 7,
-                "1Choco.Jpg",
+                "3sampunas.Jpg",
                 1,
-                new double()
-                )
+                new double(
+                    )
+                  )
                 );
-
-
             return products;
         }
-
     }
 }

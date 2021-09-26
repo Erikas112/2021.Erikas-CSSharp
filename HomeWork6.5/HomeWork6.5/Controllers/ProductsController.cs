@@ -1,18 +1,16 @@
-﻿using HomeWork6._5.Models;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
+using System.Collections.Generic;
+using HomeWork6._5.Product;
+
 namespace HomeWork6._5.Controllers
-
-
 
 {
     [Route("[controller]")]
     [ApiController]
     public class ProductsController : ControllerBase
     {
-
         [HttpPost]
-
-        public IActionResult Save(Product product)
+        public IActionResult Save(Models.Product product)
         {
             if (product.Name == "")
             {
@@ -51,13 +49,42 @@ namespace HomeWork6._5.Controllers
             return Ok();
         }
 
-       [HttpGet]
+       [HttpGet("List")]
        public IActionResult List()
         {
             var service = new ProductService();
             var products = service.GetProducts();
 
             return new OkObjectResult(products);
+        }
+        [HttpGet]
+        public IActionResult Get(string id)
+        {
+            var service = new ProductService();
+            var products = service.GetProducts();
+            foreach (var product in products)
+            {
+                if (product.Id == id)
+                {
+                    return new ObjectResult(product);
+                }
+            }
+            return NotFound();
+        }
+        [HttpGet("filter")]
+        public IActionResult filter(string text)
+        {
+            var service = new ProductService();
+            var products = service.GetProducts();
+            var filteredProducts = new List<Models.Product>();
+            foreach (var product in products)
+            {
+                if (product.GetInformation().Contains(text))
+                {
+                    filteredProducts.Add(product);
+                }
+            }
+            return new ObjectResult(filteredProducts);
         }
     }
 }

@@ -14,7 +14,6 @@ namespace HomeWork6._5.Models
             Discount = discount;
             TotalPrice = firstPrice - discount;
         }
-
         public string Name { get; }
         public string Id   { get; }
         public string Description { get; }
@@ -22,8 +21,6 @@ namespace HomeWork6._5.Models
         public string  Picture { get; }
         public double  Discount { get; }
         public double  TotalPrice { get; }
-
-
        public string GetInformation()
         {
             return $"{Name} {Id} {Description} {FirstPrice} {Picture} {Discount} {TotalPrice}";
