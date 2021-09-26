@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "ybpjzwBxECODN3m8RslTQTx7J1VpsEZBVdEZtRPXLAvMi7LPqCpFiFaDu9KB/BJS6xepxH9n1oitiYiCGD+wMA==",
+  "dgSpecHash": "TwQ2H28idz4P9ddzuQzyIgL4X9JODI3qNjC5x6mY1NUM0Uy9FZ7qwE2kWCWa08vT3PqskMB1BPIPlBhoKGoFMg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Rikas\\OneDrive\\Stalinis kompiuteris\\CSshurp\\HomeWork6.4\\HomeWork6.4\\HomeWork6.4.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rikas\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Rikas\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Rikas\\.nuget\\packages\\mysqlconnector\\1.3.12\\mysqlconnector.1.3.12.nupkg.sha512",
     "C:\\Users\\Rikas\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
     "C:\\Users\\Rikas\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
     "C:\\Users\\Rikas\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",

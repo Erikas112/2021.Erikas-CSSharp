@@ -8,29 +8,25 @@ namespace HomeWork6._4.Modells
     public class Student
     {
 
-        public Student(string name, string surname, DateTime birtDay, string documnetId)
+        public Student(string name, string surname, DateTime birtDay, string documentId)
         {
             Name = name;
             Surname = surname;
             BirtDay = birtDay;
-            DocumnetId = documnetId;
+            DocumentId = documentId;
             Age = DateTime.Now.Year - birtDay.Year;
         }
 
-        internal static void Add(Student student)
-        {
-            throw new NotImplementedException();
-        }
 
         public string Name { get;}
         public string Surname { get; }
         public DateTime BirtDay { get;}
-        public string DocumnetId { get;}
+        public string DocumentId { get;}
         public int Age { get;}
 
         public string GetInformation()
         {
-            return $"{Name} {Surname} {BirtDay.ToString("yyyy-MM-dd")} {DocumnetId} {Age}";
+            return $"{Name} {Surname} {BirtDay.ToString("yyyy-MM-dd")} {DocumentId} {Age}";
         }
     }
 }

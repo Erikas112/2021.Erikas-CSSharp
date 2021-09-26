@@ -12,7 +12,7 @@ namespace HomeWork6._5.Models
             FirstPrice = firstPrice;
             Picture = picture;
             Discount = discount;
-            TotalPrice = 0;//TODO
+            TotalPrice = firstPrice - discount;
         }
 
         public string Name { get; }
@@ -24,7 +24,9 @@ namespace HomeWork6._5.Models
         public double  TotalPrice { get; }
 
 
-
-
+       public string GetInformation()
+        {
+            return $"{Name} {Id} {Description} {FirstPrice} {Picture} {Discount} {TotalPrice}";
+        }
     }
 }

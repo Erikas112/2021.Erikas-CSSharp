@@ -27,3 +27,4 @@ C:\Users\Rikas\OneDrive\Stalinis kompiuteris\CSshurp\HomeWork6.4\HomeWork6.4\obj
 C:\Users\Rikas\OneDrive\Stalinis kompiuteris\CSshurp\HomeWork6.4\HomeWork6.4\obj\Debug\net5.0\ref\HomeWork6.4.dll
 C:\Users\Rikas\OneDrive\Stalinis kompiuteris\CSshurp\HomeWork6.4\HomeWork6.4\obj\Debug\net5.0\HomeWork6.4.pdb
 C:\Users\Rikas\OneDrive\Stalinis kompiuteris\CSshurp\HomeWork6.4\HomeWork6.4\obj\Debug\net5.0\HomeWork6.4.genruntimeconfig.cache
+C:\Users\Rikas\OneDrive\Stalinis kompiuteris\CSshurp\HomeWork6.4\HomeWork6.4\bin\Debug\net5.0\MySqlConnector.dll

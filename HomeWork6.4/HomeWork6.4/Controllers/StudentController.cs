@@ -25,7 +25,7 @@ namespace HomeWork6._4.Controllers
                 return ValidationProblem("Nenurodete pavardes!");
 
             }
-            if (student.DocumnetId == "")
+            if (student.DocumentId == "")
             {
                 return ValidationProblem("Nenurodete dokumento!");
 
@@ -36,7 +36,8 @@ namespace HomeWork6._4.Controllers
                 return ValidationProblem("Nenurodete gimimo dienos!");
 
             }
-
+            var service = new StudentService();           
+            service.CreateStudent(student);
 
             return Ok();
         }
@@ -56,19 +57,10 @@ namespace HomeWork6._4.Controllers
         {
             var service = new StudentService();
 
-            var students = service.GetStudents();
-
-            foreach (var student in students)
-            {
-                if (student.DocumnetId == documentId)
-                {
-                    return new ObjectResult(student);
-                }
-            }
-            return NotFound();
+            var student = service.GetStudent(documentId);
+            
+            return  new OkObjectResult(student);
         }
-
-
 
 
         [HttpGet("filter")]
