@@ -7,9 +7,17 @@ using System.Threading.Tasks;
 
 namespace HomeWork4._2.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("[controller]")]
     [ApiController]
     public class HomeWork4 : ControllerBase
     {
+        [HttpPost]
+        public IActionResult Name(string [] nameLength)
+        {
+            var Length = new string[] { "" };
+
+            return new OkObjectResult ($"{nameLength} vardo ilgis yra {Length} simboliai");
+
+        }
     }
 }

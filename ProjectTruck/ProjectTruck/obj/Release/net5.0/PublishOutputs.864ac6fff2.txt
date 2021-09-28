@@ -1,0 +1,12 @@
+C:\Users\Rikas\OneDrive\Stalinis kompiuteris\CSshurp\ProjectTruck\ProjectTruck\obj\Release\net5.0\PubTmp\Out\ProjectTruck.exe
+C:\Users\Rikas\OneDrive\Stalinis kompiuteris\CSshurp\ProjectTruck\ProjectTruck\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Rikas\OneDrive\Stalinis kompiuteris\CSshurp\ProjectTruck\ProjectTruck\obj\Release\net5.0\PubTmp\Out\appsettings.json
+C:\Users\Rikas\OneDrive\Stalinis kompiuteris\CSshurp\ProjectTruck\ProjectTruck\obj\Release\net5.0\PubTmp\Out\ProjectTruck.dll
+C:\Users\Rikas\OneDrive\Stalinis kompiuteris\CSshurp\ProjectTruck\ProjectTruck\obj\Release\net5.0\PubTmp\Out\ProjectTruck.deps.json
+C:\Users\Rikas\OneDrive\Stalinis kompiuteris\CSshurp\ProjectTruck\ProjectTruck\obj\Release\net5.0\PubTmp\Out\ProjectTruck.runtimeconfig.json
+C:\Users\Rikas\OneDrive\Stalinis kompiuteris\CSshurp\ProjectTruck\ProjectTruck\obj\Release\net5.0\PubTmp\Out\ProjectTruck.pdb
+C:\Users\Rikas\OneDrive\Stalinis kompiuteris\CSshurp\ProjectTruck\ProjectTruck\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\Rikas\OneDrive\Stalinis kompiuteris\CSshurp\ProjectTruck\ProjectTruck\obj\Release\net5.0\PubTmp\Out\MySqlConnector.dll
+C:\Users\Rikas\OneDrive\Stalinis kompiuteris\CSshurp\ProjectTruck\ProjectTruck\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Rikas\OneDrive\Stalinis kompiuteris\CSshurp\ProjectTruck\ProjectTruck\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Rikas\OneDrive\Stalinis kompiuteris\CSshurp\ProjectTruck\ProjectTruck\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
